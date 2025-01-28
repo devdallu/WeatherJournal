@@ -1,0 +1,111 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Allow Location Access" : {
+
+    },
+    "Bad Gateway. The server received an invalid response from an upstream server." : {
+
+    },
+    "Bad Request. The server could not understand the request due to invalid syntax." : {
+
+    },
+    "Check your internet connection" : {
+
+    },
+    "Client error: %lld. Please check the request and try again." : {
+
+    },
+    "Conflict. The request conflicts with the current state of the server." : {
+
+    },
+    "Enable Location Services" : {
+
+    },
+    "Failed to decode response: %@" : {
+
+    },
+    "Forbidden. You don't have permission to access this resource." : {
+
+    },
+    "Gateway Timeout. The server took too long to respond." : {
+
+    },
+    "Getting location..." : {
+
+    },
+    "Gone. The requested resource is no longer available." : {
+
+    },
+    "HTTP Version Not Supported. The server does not support the HTTP protocol version used in the request." : {
+
+    },
+    "Internal Server Error. The server encountered an unexpected condition." : {
+
+    },
+    "Invalid server response." : {
+
+    },
+    "Invalid URL configuration." : {
+
+    },
+    "Location Access Required" : {
+
+    },
+    "Method Not Allowed. The request method is not supported for the requested resource." : {
+
+    },
+    "Network error: %@" : {
+
+    },
+    "Not Found. The requested resource could not be found." : {
+
+    },
+    "Not Implemented. The server does not support the functionality required to fulfill the request." : {
+
+    },
+    "Open Settings" : {
+
+    },
+    "Please enable location access in Settings to get weather for your current location." : {
+
+    },
+    "please try again.." : {
+
+    },
+    "Refresh" : {
+
+    },
+    "Request Timeout. The server took too long to respond." : {
+
+    },
+    "Server error: %lld. Please try again later." : {
+
+    },
+    "Service Unavailable. The server is temporarily unable to handle the request. Please try again later." : {
+
+    },
+    "To provide you with accurate weather information, we need access to your location. This helps us show you real-time weather updates for your area." : {
+
+    },
+    "Too Many Requests. You have made too many requests in a short period. Please try again later." : {
+
+    },
+    "Unable to fetch location" : {
+
+    },
+    "Unauthorized. Please check your credentials and try again." : {
+
+    },
+    "Unknown authorization status" : {
+
+    },
+    "Weather Report" : {
+
+    },
+    "You can change this setting at any time in your device's settings" : {
+
+    }
+  },
+  "version" : "1.0"
+}

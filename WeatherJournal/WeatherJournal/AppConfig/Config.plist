@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEYS</key>
+	<dict>
+		<key>DEVELOPMENT</key>
+		<string>0da38a9af82b02f1c6a870dfd76f2b4e</string>
+		<key>STAGING</key>
+		<string>0da38a9af82b02f1c6a870dfd76f2b4e</string>
+		<key>PRODUCTION</key>
+		<string>0da38a9af82b02f1c6a870dfd76f2b4e</string>
+	</dict>
+</dict>
+</plist>
